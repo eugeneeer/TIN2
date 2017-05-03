@@ -1,0 +1,2 @@
+ServerAddress:bmec.mine.nu
+PortNumber:15471

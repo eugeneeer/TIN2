@@ -1,0 +1,5 @@
+Sound:2:X
+Light:1:B
+Forward:3:Y
+Backward:0:A
+Speed:y:Y_Axis

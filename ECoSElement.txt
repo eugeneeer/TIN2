@@ -1,0 +1,4 @@
+Name:Am 4/4 18462
+Sound:1
+Light:0
+MaxSpeed:30
